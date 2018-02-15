@@ -1,0 +1,27 @@
+.bg {
+ background-color: #1d2637 !important;   
+}
+
+.stageContainer .content {
+    background-color: #1d2637 !important;   
+}
+
+
+/*SLIDER*/
+#sliderInput001.slider-input .ui-slider {
+    background: none;
+}
+
+#stage-stage .slider-input .ui-slider {
+    background: none !important;
+}
+
+#stage-stage .slider-input .ui-slider-handle {
+    background-color: transparent !important;
+    background-image: url("https://chaielearning.com/cdn/ssiframetest/img/gfxDline.png") !important;
+    background-repeat: no-repeat !important;
+    width: 180px !important;
+    height: 180px !important;
+}
+
+/*#sliderInput001.slider-input .ui-slider-handle*/
